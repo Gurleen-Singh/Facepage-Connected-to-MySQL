@@ -1,0 +1,4 @@
+src/*.pyc
+src/build
+src/*.pyo
+Use/
